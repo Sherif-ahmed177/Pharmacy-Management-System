@@ -38,6 +38,6 @@ A Java-based application for managing pharmacy inventory, orders, and sales with
 
 1. Clone the repository:
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/Sherif-ahmed177/Pharmacy-Management-System.git
    cd Pharmacy-Management-System
 
