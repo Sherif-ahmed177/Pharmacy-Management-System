@@ -1,0 +1,21 @@
++--------------------------------+
+|             Main               |
++--------------------------------+
+| - main(args: String[]): void  |
++--------------------------------+
+           |
+           |
+           V
++--------------------------------+
+|         Drug_Methods           |
++--------------------------------+
+| - textWriter: FileWriter      |
+| - binaryWriter: ObjectOutputStream |
++--------------------------------+
+| + add_drug(): void             |
+| + remove_drug(): void          |
+| + place_order(): void          |
+| + getTotalSales(): void        |
+| - writeTextReport(): void      |
+| - writeBinaryReport(): void    |
++--------------------------------+

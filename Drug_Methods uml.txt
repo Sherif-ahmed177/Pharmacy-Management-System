@@ -1,0 +1,16 @@
++----------------------------------------------+
+|            Drug_Methods                      |
++----------------------------------------------+
+| - capacity: int                              |
+| - total_sales: double                        |
+| - input: Scanner                             |
+| - drugs: ArrayList<DrugData>                 |
++----------------------------------------------+
+| + Drug_Methods()                             |
+| + add_drug(): void                           |
+| + place_order(): void                        |
+| + getTotalSales(): void                      |
+| + remove_drug(): void                        |
+| - writeToTextFile(operation: String): void   |
+| - writeToBinaryFile(operation: String): void |
++----------------------------------------------+

@@ -1,0 +1,22 @@
++-------------------------------------+
+|             DrugData                |
++-------------------------------------+
+| - Drug_Name: String                 |
+| - Drug_ID: int                      |
+| - Drug_Price: double                |
+| - quantity: int                     |
+| - category: char                    |
++-------------------------------------+
+| + DrugData(name: String,            |
+|             id: int,                |
+|             price: double,          |
+|             quantity: int,          |
+|             category: char)         |
+| + getName(): String                 |
+| + getId(): int                      |
+| + getPrice(): double                |
+| + getCategory(): char               |
+| + getQuantity(): int                |
+| + setQuantity(quantity: int): void  |
+| + toString(): String                |
++-------------------------------------+
