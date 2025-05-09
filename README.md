@@ -41,15 +41,3 @@ A Java-based application for managing pharmacy inventory, orders, and sales with
    git clone [your-repository-url]
    cd Pharmacy-Management-System
 
-###File Structure
-
-Pharmacy-Management-System/
-├── src/
-│   ├── Main.java                 - Application entry point
-│   ├── DrugData.java             - Drug data model
-│   ├── DrugMethods.java          - Pharmacy operations logic
-│   ├── PharmacyManagementGUI.java - GUI implementation
-├── report.txt                   - Text log of operations
-├── report.dat                   - Binary log of operations
-├── README.md                    - This file
-└── project.iml                  - IntelliJ project file
